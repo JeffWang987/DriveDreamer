@@ -3,6 +3,8 @@
 # DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
 </div>
 
+## [Project Page](https://drivedreamer.github.io) | [Paper](https://drivedreamer.github.io/)
+
 # Abstract 
 
 World models, especially in autonomous driving, are trending and drawing extensive attention due to its 
@@ -21,8 +23,6 @@ controllable video generation that faithfully captures the structural constraint
 Additionally, DriveDreamer enables the generation of realistic and reasonable driving policies, opening avenues for 
 interaction and practical applications.
 <img width="907" alt="abs" src="https://github.com/JeffWang987/DriveDreamer/assets/49095445/c2d7fb5b-75f1-4a97-9940-cdd49e7675c8">
-
-[arXiv](TODO) 
 
 
 
