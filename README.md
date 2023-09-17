@@ -20,6 +20,7 @@ DriveDreamer on the challenging nuScenes benchmark, and extensive experiments ve
 controllable video generation that faithfully captures the structural constraints of real-world traffic scenarios.  
 Additionally, DriveDreamer enables the generation of realistic and reasonable driving policies, opening avenues for 
 interaction and practical applications.
+<img width="907" alt="abs" src="https://github.com/JeffWang987/DriveDreamer/assets/49095445/c2d7fb5b-75f1-4a97-9940-cdd49e7675c8">
 
 [arXiv](TODO) 
 
@@ -31,18 +32,48 @@ interaction and practical applications.
 
 # Demo
 **Driving Video Generation with Different Traffic Conditions.**
+<div align="center">   
+
+https://github.com/JeffWang987/DriveDreamer/assets/49095445/8b17ab65-2c18-4a83-9f35-38ad29f9bce1
+      
+</div>
 
 
 **Driving Video Generation with Traffic Condition and Different Text Prompts (Sunny, Rainy, Night).**
 
+<div align="center">   
+
+
+https://github.com/JeffWang987/DriveDreamer/assets/49095445/162c31cf-8dd2-4eed-b585-f346d58b714f
+
+
+</div>
+
 
 **Future Driving Video Generation with Action Interaction.**
 
+<div align="center">   
+
+
+https://github.com/JeffWang987/DriveDreamer/assets/49095445/e96e02b1-4a0a-4bc5-9221-d57d1947ceaf
+
+
+</div>
+
 **Future Driving Action Generation.**
 
+<div align="center">   
 
-**DriveDreamer Framwork**
 
+https://github.com/JeffWang987/DriveDreamer/assets/49095445/b6893c6c-5137-4270-8fe3-b4d1668b80e8
+
+
+</div>
+
+
+**DriveDreamer Framework**
+
+<img width="1314" alt="method" src="https://github.com/JeffWang987/DriveDreamer/assets/49095445/ad395b96-0696-4118-b794-3e34469955bd">
 
 
 # Bibtex
