@@ -82,7 +82,7 @@ If this work is helpful for your research, please consider citing the following 
 ```
 @article{wang2023drivedreamer,
       title={DriveDreamer: Towards Real-world-driven World Models for Autonomous  Driving}, 
-      author={Xiaofeng Wang and Zheng Zhu and Guan Huang and Xinze Chen},
+      author={Xiaofeng Wang and Zheng Zhu and Guan Huang and Xinze Chen and Jiwen Lu},
       journal={arXiv preprint arXiv:TODO},
       year={2023}
 }
