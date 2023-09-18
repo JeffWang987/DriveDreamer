@@ -76,7 +76,8 @@ https://github.com/JeffWang987/DriveDreamer/assets/49095445/b6893c6c-5137-4270-8
 
 **DriveDreamer Framework**
 
-<img width="1314" alt="method" src="https://github.com/JeffWang987/DriveDreamer/assets/49095445/ad395b96-0696-4118-b794-3e34469955bd">
+
+<img width="1340" alt="method" src="https://github.com/JeffWang987/DriveDreamer/assets/49095445/9d578df7-780d-4518-a1e5-f2e030d7df7e">
 
 
 # Bibtex
