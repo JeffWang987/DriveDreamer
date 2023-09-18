@@ -55,7 +55,10 @@ https://github.com/JeffWang987/DriveDreamer/assets/49095445/162c31cf-8dd2-4eed-b
 <div align="center">   
 
 
-https://github.com/JeffWang987/DriveDreamer/assets/49095445/e96e02b1-4a0a-4bc5-9221-d57d1947ceaf
+
+
+https://github.com/JeffWang987/DriveDreamer/assets/49095445/306d32d2-bdff-47cb-b5bc-b564d77e1690
+
 
 
 </div>
