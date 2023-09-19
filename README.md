@@ -3,7 +3,7 @@
 # DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
 </div>
 
-## [Project Page](https://drivedreamer.github.io) | [Paper](https://drivedreamer.github.io/)
+## [Project Page](https://drivedreamer.github.io) | [Paper](https://arxiv.org/pdf/2309.09777.pdf)
 
 # Abstract 
 
@@ -87,7 +87,7 @@ If this work is helpful for your research, please consider citing the following 
 @article{wang2023drivedreamer,
       title={DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving}, 
       author={Xiaofeng Wang and Zheng Zhu and Guan Huang and Xinze Chen and Jiwen Lu},
-      journal={arXiv preprint arXiv:TODO},
+      journal={arXiv preprint arXiv:2309.09777},
       year={2023}
 }
 ```
