@@ -3,6 +3,10 @@
 # DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
 </div>
 
+Our team is actively working towards releasing the code for this project. However, due to the involvement of company patents and ongoing product initiatives, we are currently undergoing internal reviews. We anticipate that the research code will be released after March, along with the introduction of DriveDreamer V2.
+
+We appreciate your patience and understanding as we navigate the necessary processes.
+ 
 ## [Project Page](https://drivedreamer.github.io) | [Paper](https://arxiv.org/pdf/2309.09777.pdf)
 
 # Abstract 
