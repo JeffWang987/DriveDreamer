@@ -2,10 +2,6 @@
 
 # DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
 </div>
-
-Our team is actively working towards releasing the code for this project. However, due to the involvement of company patents and ongoing product initiatives, we are currently undergoing internal reviews. We anticipate that the research code will be released after March, along with the introduction of DriveDreamer V2.
-
-We appreciate your patience and understanding as we navigate the necessary processes.
  
 ## [Project Page](https://drivedreamer.github.io) | [Paper](https://arxiv.org/pdf/2309.09777.pdf)
 
@@ -32,7 +28,21 @@ interaction and practical applications.
 
 
 # News
-- **[2023/09/17]** Repository Initialization.
+- **[2024/11/02]** 🚀 Research code for DriveDreamer is realsed! For future update, please follow [GigaAI-research](https://github.com/GigaAI-research).
+- **[2024/10/17]** 🚀We release the [DriveDreamer4D](https://drivedreamer4d.github.io/) project! (Key features: 4D reconstruction, complex maneuvers rendering)
+- **[2024/07/02]** 🎉DriveDreamer is accepted for ECCV'24! Rank 15 in  [Most Influential ECCV'24 Papers](https://www.paperdigest.org/2024/09/most-influential-eccv-papers-2024-09/).
+- **[2024/03/11]** 🚀We release the [DriveDreamer-2](https://drivedreamer2.github.io/) project! (Key features: multi-view video generation, user-friendly with LLM)
+- **[2023/09/17]** 🚀We release the [DriveDreamer](https://drivedreamer.github.io/) project!
+
+
+
+# Getting Started
+
+- [Installation](DOCS/install.md) 
+
+- [Prepare Dataset & Env](DOCS/preparion.md)
+
+- [Train, Test, Visualization](DOCS/trainval.md)
 
 
 # Demo
@@ -98,10 +108,10 @@ If this work is helpful for your research, please consider citing the following 
 
 ```
 @article{wang2023drivedreamer,
-      title={DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving}, 
-      author={Xiaofeng Wang and Zheng Zhu and Guan Huang and Xinze Chen and Jiwen Lu},
-      journal={arXiv preprint arXiv:2309.09777},
-      year={2023}
+  title={Drivedreamer: Towards real-world-driven world models for autonomous driving},
+  author={Wang, Xiaofeng and Zhu, Zheng and Huang, Guan and Chen, Xinze and Zhu, Jiagang and Lu, Jiwen},
+  journal={arXiv preprint arXiv:2309.09777},
+  year={2023}
 }
 ```
 
