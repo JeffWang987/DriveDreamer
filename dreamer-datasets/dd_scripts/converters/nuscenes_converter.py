@@ -1087,8 +1087,6 @@ def main():
     tar_version = opt.adjust_tar_version
     data_idxes = nusc_convertor.nusc_info_idx()
     for trainval_idx, split in enumerate(['train', 'val']):
-        if trainval_idx == 0:
-            continue
         data_idx = data_idxes[trainval_idx]
         data_path = os.path.join(save_root, nusc_version, 'cam_all_{}'.format(split))
         label_path = os.path.join(data_path, src_version, 'labels')

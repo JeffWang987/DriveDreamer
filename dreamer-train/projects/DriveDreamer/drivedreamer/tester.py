@@ -143,21 +143,8 @@ class DriveDreamerTester(Tester):
 def get_data(batch_dict, key, is_video=False):
     if key in batch_dict:
         data = batch_dict[key]
-        if isinstance(data, list):
-            if isinstance(data[0], (list, tuple)):
-                # assert len(data[0]) == 1
-                if not is_video:
-                    for i in range(len(data)):
-                        data[i] = data[i][0]
-            else:
-                # assert len(data) == 1
-                if not is_video:
-                    data = data[0]
-        else:
-            # assert len(data) == 1
-            if not is_video:
-                data = data[0]
-        return data
+        if not is_video:
+            data = data[0]
     else:
         return None
 

@@ -19,6 +19,8 @@ class DefaultCollator:
 
     def _collate(self, batch):
         if isinstance(batch, (list, tuple)):
+            if len(batch) == 0:
+                return batch
             if isinstance(batch[0], torch.Tensor):
                 batch = utils.stack_data(batch)
             elif isinstance(batch[0], np.ndarray):
