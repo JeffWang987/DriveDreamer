@@ -25,7 +25,7 @@ distributed_type = None  # DEEPSPEED
 deepspeed_config = None # dict(deepspeed_config_file=os.path.join(os.path.dirname(__file__), '..', '..', 'accelerate_configs/zero2.json'))
 activation_checkpointing = True
 max_epochs = 20
-batch_size = 2
+batch_size = 1
 batch_size_frame_per_gpu = batch_size * num_frames * num_cams
 gradient_accumulation_steps = 1
 resume = False

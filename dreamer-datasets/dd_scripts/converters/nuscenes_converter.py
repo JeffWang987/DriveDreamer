@@ -163,8 +163,8 @@ class NuScenesConverter:
 
     def convert_cam_all(self):
         self.convert_cam_all_labels()
-        # self.convert_cam_all_images()
-        # self.convert_cam_all_hdmaps()
+        self.convert_cam_all_images()
+        self.convert_cam_all_hdmaps()
         for split in self.splits:
             datasets = [
                 load_dataset(self.save_cam_all_label_paths[split]),
