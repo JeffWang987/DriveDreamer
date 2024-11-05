@@ -40,7 +40,7 @@ interaction and practical applications.
 
 - [Installation](DOCS/install.md) 
 
-- [Prepare Dataset & Env](DOCS/preparion.md)
+- [Prepare Dataset & Env](DOCS/preparation.md)
 
 - [Train, Test, Visualization](DOCS/trainval.md)
 
