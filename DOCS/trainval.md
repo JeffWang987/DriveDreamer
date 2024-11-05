@@ -39,9 +39,9 @@ python ./dreamer-train/projects/launch.py \
 | exp_dir         | Path to save logs and checkpoints |
 | train_data      | The converted train dataset path (e.g., .../cam_all_train/v0.0.2) |
 | test_data       | The converted test dataset path (e.g., .../cam_all_val/v0.0.2) |
-| ckpt_2d         | The 1-stage trained DriveDreaner-image model path |
+| ckpt_2d         | The stage-1 trained DriveDreaner-image model path |
 | hz_factor       | The video fps = 12 / hz_factor, 12 is the fps of raw nusc camera data |
-| video_split_rate| To sample N-frame videos, the first video: 1-N, the next video:N/video_split_rate-N/video_split_rate+N |
+| video_split_rate| To sample N-frame videos, the first video: 1 \~ N. The next video: N/video_split_rate \~ N/video_split_rate+N |
 | pos_name        | Control formats for foreground objects, choises: [box, corner, box_image, corner_image], box is 2D box coordinates, corner is 3D box coordinates, box_image is 2D box image, corner_image is 3D box image |
 | max_objs_num         | Maximum number of foreground objects in one frame |
 | weight_path     | Specify your weight path during testing. None is the last ckpt you trained|
