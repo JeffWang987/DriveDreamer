@@ -28,7 +28,7 @@ interaction and practical applications.
 
 
 # News
-- **[2024/11/02]** 🚀 Research code for DriveDreamer is realsed! For future update, please follow [GigaAI-research](https://github.com/GigaAI-research).
+- **[2024/11/02]** 🚀 Research code for DriveDreamer is realsed! For future update, please follow [GigaAI-research](https://github.com/GigaAI-research/DriveDreamer).
 - **[2024/10/17]** 🚀We release the [DriveDreamer4D](https://drivedreamer4d.github.io/) project! (Key features: 4D reconstruction, complex maneuvers rendering)
 - **[2024/07/02]** 🎉DriveDreamer is accepted for ECCV'24! Rank 15 in  [Most Influential ECCV'24 Papers](https://www.paperdigest.org/2024/09/most-influential-eccv-papers-2024-09/).
 - **[2024/03/11]** 🚀We release the [DriveDreamer-2](https://drivedreamer2.github.io/) project! (Key features: multi-view video generation, user-friendly with LLM)
